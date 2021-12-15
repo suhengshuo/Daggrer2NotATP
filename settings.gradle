@@ -1,0 +1,3 @@
+include ':dagger2'
+include ':app'
+rootProject.name = "Dagger2NotAtp"
