@@ -1,11 +1,11 @@
-package com.hellobike.dagger2notatp.Dagger2Create.component;
+package com.hellobike.dagger2notatp.dagger2Create.component;
 
 
 import com.hellobike.dagger2.dagger2I.MembersInjector;
 import com.hellobike.dagger2.dagger2I.Provider;
 import com.hellobike.dagger2.utils.Preconditions;
-import com.hellobike.dagger2notatp.Dagger2Create.MainActivity_MembersInjector;
-import com.hellobike.dagger2notatp.Dagger2Create.module.PeopleModule_ProviderPeopleFactory;
+import com.hellobike.dagger2notatp.dagger2Create.MainActivity_MembersInjector;
+import com.hellobike.dagger2notatp.dagger2Create.module.PeopleModule_ProviderPeopleFactory;
 import com.hellobike.dagger2notatp.MainActivity;
 import com.hellobike.dagger2notatp.component.PeoPleComponent;
 import com.hellobike.dagger2notatp.module.PeoPleModule;

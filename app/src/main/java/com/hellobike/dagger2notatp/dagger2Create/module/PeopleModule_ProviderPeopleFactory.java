@@ -1,4 +1,4 @@
-package com.hellobike.dagger2notatp.Dagger2Create.module;
+package com.hellobike.dagger2notatp.dagger2Create.module;
 
 import com.hellobike.dagger2.dagger2I.Factory;
 import com.hellobike.dagger2notatp.module.PeoPleModule;

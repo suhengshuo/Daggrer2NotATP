@@ -1,4 +1,4 @@
-package com.hellobike.dagger2notatp.Dagger2Create;
+package com.hellobike.dagger2notatp.dagger2Create;
 
 import com.hellobike.dagger2.dagger2I.Factory;
 import com.hellobike.dagger2notatp.object.People;

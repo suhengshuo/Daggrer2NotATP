@@ -2,7 +2,7 @@ package com.hellobike.dagger2notatp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import com.hellobike.dagger2.annation.Inject;
-import com.hellobike.dagger2notatp.Dagger2Create.component.DaggerPeopleComponent;
+import com.hellobike.dagger2notatp.dagger2Create.component.DaggerPeopleComponent;
 import com.hellobike.dagger2notatp.object.People;
 
 import android.annotation.SuppressLint;
